@@ -73,3 +73,10 @@ CropCare AI is a deep learning and data science project designed to classify pot
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 📩 Reach Out
+I have uploaded the two training models as PDF files for reference. If you have any questions or need clarification, feel free to contact me at:
+[LinkedIn](www.linkedin.com/in/spraveenkumar2205)
+[E-mail](spraveenkumar2205@gmal.com)
